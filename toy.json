@@ -1,13 +1,13 @@
 {
 
-	"admob_banner": "ca-app-pub-5877571290650236/7500487040",
-	"admob_inter": "ca-app-pub-5877571290650236/2949393162",
+	"admob_banner": "ca-app-pub-5877571290650236/7338874943",
+	"admob_inter": "ca-app-pub-5877571290650236/8318598909",
 
 	"APP_KEY": "1231daaad",
 	"BANNER_PLACEMENT": "3933598610075941_3933620023407133",
 	"INTERSTITIAL_PLACEMENT": "3933598610075941_3933620900073712",
 
-	"whichAds":1,
+	"whichAds":0,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
@@ -20,7 +20,7 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME": "Shop",
+	"BUTTON_NAME": "Shop Now",
 
 	"BUTTON_URL": "https://www.smythstoys.com"
 
