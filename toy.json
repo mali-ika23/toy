@@ -1,13 +1,13 @@
 {
 
-	"admob_banner": "ca-app-pub-5877571290650236/7338874943",
-	"admob_inter": "ca-app-pub-5877571290650236/8318598909",
+	"admob_banner": "ca-app-pub-9540624147356790/9437498631",
+	"admob_inter": "ca-app-pub-9540624147356790/1840141848",
 
 	"APP_KEY": "1231daaad",
 	"BANNER_PLACEMENT": "3933598610075941_3933620023407133",
 	"INTERSTITIAL_PLACEMENT": "3933598610075941_3933620900073712",
 
-	"whichAds":1,
+		"whichAds":0,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
